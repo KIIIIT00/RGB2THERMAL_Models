@@ -15,6 +15,5 @@ src/yaml_generator.py
 *.pyc
 
 instance_seg/*
-inputs/*
 datasets/*
 results/*
