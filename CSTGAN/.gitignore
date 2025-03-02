@@ -1,0 +1,8 @@
+checkpoints/**/*.pth
+checkpoints/**/web/*
+results/*
+logs/*
+datasets/*
+!datasets/Scene1.ps1
+!datasets/Scene2.ps1
+!datasets/Scene2ver2.ps1
