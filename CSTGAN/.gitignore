@@ -1,5 +1,5 @@
 checkpoints/*
-!checkpoints/*.txt
+!checkpoints/*/*.txt
 results/*
 logs/*
 datasets/*
