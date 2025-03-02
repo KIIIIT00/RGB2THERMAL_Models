@@ -1,7 +1,5 @@
-checkpoints/*.pth
-checkpoints/*.jpg
-checkpoints/*.png
-checkpoints/*.html
+checkpoints/*
+!checkpoints/*.txt
 results/*
 logs/*
 datasets/*
