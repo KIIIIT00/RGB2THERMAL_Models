@@ -3,8 +3,20 @@
 ## Description   
 [RGB2THERMAL](https://github.com/KIIIIT00/RGBtoTHERMAL) のプロジェクトを用いて採集したデータセットを使用し，様々な機械学習モデルを学習させる．
 
+## ディレクトリ構造
+```
+.
+├── CSTGAN 
+├── CycleGAN 
+├── DCLGAN //CycleGANとpix2pixの基盤モデル
+├── MUNIT
+├── yolo_models //YOLOv11のセグメンテーションファイルを置くフォルダ
+├── utils // 使いまわすクラス
+├── .gitignore
+├── LICENSE
+└── README.md
+```
 ## How to run   
-
 1. **CycleGAN**
 ### train
 ```
