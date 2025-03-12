@@ -13,6 +13,8 @@
 ├── yolo_models //YOLOv11のセグメンテーションファイルを置くフォルダ
 ├── utils // 使いまわすクラス
 ├── .gitignore
+├── Dockerfile
+├── environment.yml
 ├── LICENSE
 └── README.md
 ```
