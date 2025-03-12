@@ -1,0 +1,4 @@
+checkpoints/**/*.pth
+checkpoints/**/web/*
+results/*
+instance_seg/*

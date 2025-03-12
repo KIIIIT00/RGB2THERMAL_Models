@@ -1,0 +1,5 @@
+checkpoints/**/*.pth
+checkpoints/**/web/*
+logs/*
+video/*.mp4
+runs/*
